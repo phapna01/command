@@ -1,0 +1,1 @@
+# OS command inject: chen shell. cho phep ke tan cong thuc thi cac lenh hdh tuy y tren may chu dang chay ung dung va thuong xuyen xam pham vao all its data. Co the tan dung lo hong nay de xam pham ha tang luu tru, khai thac cac moi quan he tin cay de chuyen cuoc tan cong sang he thong khac trong to chuc
