@@ -1,0 +1,2 @@
+# Kiểu tấn công này khai thác việc xử lý dữ liệu không đáng tin. kiểu tấn công có thể thự hiện được do thiếu chính xác thực dữ liệu
+# Bị giới hạn bởi chức năng chính của ngôn ngữ được tiêm. Nếu inject PHP -> exec chỉ giới hạn bởi khả năng của PHP
